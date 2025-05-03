@@ -4,7 +4,6 @@
 I'm just starting my coding adventure! Currently focusing on:
 - 📚 **Learning Solidity** (writing my first smart contracts)
 - 🧩 **Solving CodeWars problems** (leveling up my logic skills)
-- 🎨 **Exploring Front-End Basics** (HTML/CSS/JavaScript)
 
 ### 🌱 Current Learning Goals
 1. Complete [Solidity Beginner Tutorials]  
@@ -24,6 +23,5 @@ I started coding because "I wanted to understand blockchain magic!".
 **📌 Pinned (Future Goals):**  
 🔜 My first smart contract project  
 🔜 CodeWars solutions repository  
-🔜 Front-end portfolio design  
 
-*(Profile last updated: [04] [2025])*  
+*(Profile last updated: [05] [2025])*  
