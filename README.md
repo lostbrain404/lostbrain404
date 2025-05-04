@@ -6,7 +6,7 @@ I'm just starting my coding adventure! Currently focusing on:
 - 🧩 **Solving CodeWars problems** (leveling up my logic skills)
 
 ### 🌱 Current Learning Goals
-1. Complete [Solidity Beginner Tutorials]  
+1. Complete [Solidity Tutorials]  
 2. Im building my own project   
 
 
