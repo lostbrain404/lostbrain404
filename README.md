@@ -3,7 +3,6 @@
 ### 🚀 Beginner Developer Journey
 I'm just starting my coding adventure! Currently focusing on:
 - 📚 **Learning Solidity** (writing my first smart contracts)
-- 🧩 **Solving CodeWars problems** (leveling up my logic skills)
 
 ### 🌱 Current Learning Goals
 1. Complete [Solidity Tutorials]  
@@ -11,7 +10,7 @@ I'm just starting my coding adventure! Currently focusing on:
 
 
 ### 📫 Let's Connect!
-- ✉️ **Email**: [lostbrain404@gmail.com] 
+- ✉️ **Email**: [lostbrain404@icloud.com] 
 
 ### ⚡ Fun Fact:  
 I started coding because "I wanted to understand blockchain magic!".  
